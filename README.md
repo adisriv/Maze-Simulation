@@ -1,6 +1,6 @@
-# README: group 16
+# README:
 
-### CS50 Maze Challenge, Winter 2018
+### Maze Challenge
 
 **Contributors:** Adi Srivastava, Ben Eisner, Abenezer Dara, Junfei Yu
 
